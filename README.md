@@ -1,2 +1,1 @@
-# krillion-prompts
-Prompt catalog for the French Krillion trainer
+French Krillion prompt bank. Split into part-0.json … part-6.json. bank.json is the manifest {parts, count}.
